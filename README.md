@@ -10,8 +10,8 @@ Hack Cameras
 
 * git clone https://github.com/kal1l1nux1337/Cam-Hackers.git
 
-* cd kaliCam
+* cd Cam-Hackers
 
 * pip install -r requirements.txt
 
-* python3 kaliCam.py
+* python3 python3 cam-hackers.py
